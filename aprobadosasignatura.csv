@@ -1,0 +1,577 @@
+Año,Asignatura,Porcentaje_Aprobados
+2000,Matemática I,0.4651
+2000,Algorítmica II,0.4206
+2000,Herramientas de Desarrollo II,0.7531
+2000,Algorítmica I,0.593
+2000,Matemática II,0.4074
+2000,Arquitectura del Computador,0.5853
+2000,Herramientas de Desarrollo I,0.655
+2000,Contabilidad I,0.593
+2000,Ofimatica,0.6395
+2000,Contabilidad II,0.5062
+2000,Software Contable,0.642
+2000,Diseño Gráfico,0.9259
+2001,Herramientas de Desarrollo III,0.7412
+2001,Ofimatica,0.671
+2001,Algorítmica II,0.6438
+2001,Contabilidad II,0.6575
+2001,Software Contable,0.7877
+2001,Herramientas de Desarrollo II,0.6849
+2001,Algorítmica I,0.4365
+2001,Diseño de Páginas Web,0.8387
+2001,Diseño Gráfico,0.8014
+2001,Herramientas de Desarrollo IV,0.8065
+2001,Análisis y Diseño de Sist. de Inf. II,0.7742
+2001,Base de Datos II,0.9032
+2001,Matemática III,0.5882
+2001,Administración y Liderazgo,1
+2001,Contabilidad I,0.4202
+2001,Arquitectura del Computador,0.5114
+2001,Herramientas de Desarrollo I,0.5928
+2001,Análisis y Diseño de Sist. de Inf. I,0.7882
+2001,Matemática I,0.355
+2001,Base de Datos I,0.7059
+2001,Redes y Conectividad,0.7176
+2001,Matemática II,0.5274
+2002,Diseño Gráfico,0.7687
+2002,Contabilidad II,0.7551
+2002,Matemática III,0.7865
+2002,Redes y Conectividad,0.8652
+2002,Sistemas Distribuidos,0.7451
+2002,Administración y Liderazgo,0.8929
+2002,Desarrollo de Software,0.451
+2002,Base de Datos I,0.4494
+2002,Contabilidad I,0.5364
+2002,Formulacion y Evaluacion de Proyectos,0.9412
+2002,Ofimatica,0.6954
+2002,Base de Datos II,0.5357
+2002,Análisis y Diseño de Sist. de Inf. I,0.8539
+2002,Algorítmica II,0.6395
+2002,Herramientas de Desarrollo II,0.6939
+2002,Comercio Electronico,0.6667
+2002,Matemática I,0.4934
+2002,Herramientas de Desarrollo III,0.7753
+2002,Análisis y Diseño de Sist. de Inf. II,0.75
+2002,Arquitectura del Computador,0.5993
+2002,Herramientas de Desarrollo I,0.6391
+2002,Diseño de Páginas Web,0.8095
+2002,Matemática II,0.6122
+2002,Software Contable,0.7755
+2002,Herramientas de Desarrollo IV,0.6667
+2002,Administración de Centros de Computo,0.8824
+2002,Algorítmica I,0.5861
+2003,Diseño de Páginas Web,0.8028
+2003,Diseño Gráfico,0.7701
+2003,Matemática II,0.5862
+2003,Ofimatica,0.6868
+2003,Redes y Conectividad,0.8224
+2003,Software Contable,0.7356
+2003,Herramientas de Desarrollo III,0.7009
+2003,Herramientas de Desarrollo I,0.6085
+2003,Administración de Centros de Computo,0.8406
+2003,Desarrollo de Software,0.5797
+2003,Base de Datos II,0.7042
+2003,Matemática I,0.5694
+2003,Sistemas Distribuidos,0.7971
+2003,Arquitectura del Computador,0.5872
+2003,Contabilidad I,0.6406
+2003,Análisis y Diseño de Sist. de Inf. II,0.9296
+2003,Comercio Electronico,0.5507
+2003,Matemática III,0.785
+2003,Herramientas de Desarrollo IV,0.6479
+2003,Administración y Liderazgo,0.9014
+2003,Análisis y Diseño de Sist. de Inf. I,0.785
+2003,Herramientas de Desarrollo II,0.6207
+2003,Algorítmica I,0.5445
+2003,Base de Datos I,0.7009
+2003,Contabilidad II,0.6494
+2003,Algorítmica II,0.5402
+2003,Formulacion y Evaluacion de Proyectos,0.913
+2004,Diseño Gráfico,0.6904
+2004,Algorítmica II,0.5356
+2004,Contabilidad II,0.7071
+2004,Software Contable,0.6862
+2004,Matemática II,0.682
+2004,Formulacion y Evaluacion de Proyectos,0.8269
+2004,Matemática III,0.7967
+2004,Administración y Liderazgo,0.8915
+2004,Redes y Conectividad,0.7561
+2004,Desarrollo de Software,0.5865
+2004,Base de Datos II,0.6977
+2004,Sistemas Distribuidos,0.5962
+2004,Base de Datos I,0.813
+2004,Análisis y Diseño de Sist. de Inf. I,0.7073
+2004,Contabilidad I,0.6337
+2004,Matemática I,0.6139
+2004,Comercio Electronico,0.7885
+2004,Herramientas de Desarrollo IV,0.7132
+2004,Análisis y Diseño de Sist. de Inf. II,0.7674
+2004,Arquitectura del Computador,0.6386
+2004,Herramientas de Desarrollo III,0.7805
+2004,Ofimatica,0.7005
+2004,Administración de Centros de Computo,0.8269
+2004,Algorítmica I,0.547
+2004,Herramientas de Desarrollo II,0.6485
+2004,Herramientas de Desarrollo I,0.6114
+2004,Diseño de Páginas Web,0.814
+2005,Herramientas de Desarrollo IV,0.7091
+2005,Herramientas de Desarrollo III,0.6077
+2005,Herramientas de Desarrollo I,0.5929
+2005,Matemática III,0.6796
+2005,Diseño de Páginas Web,0.8273
+2005,Sistemas Distribuidos,0.8667
+2005,Diseño Gráfico,0.7403
+2005,Formulacion y Evaluacion de Proyectos,0.8667
+2005,Algorítmica I,0.4965
+2005,Administración de Centros de Computo,0.9333
+2005,Base de Datos II,0.5
+2005,Análisis y Diseño de Sist. de Inf. II,0.7727
+2005,Algorítmica II,0.4806
+2005,Contabilidad I,0.6024
+2005,Administración y Liderazgo,0.8909
+2005,Base de Datos I,0.7072
+2005,Arquitectura del Computador,0.6212
+2005,Comercio Electronico,0.7778
+2005,Desarrollo de Software,0.6667
+2005,Contabilidad II,0.7054
+2005,Análisis y Diseño de Sist. de Inf. I,0.7569
+2005,Matemática I,0.6024
+2005,Herramientas de Desarrollo II,0.5969
+2005,Matemática II,0.6163
+2005,Redes y Conectividad,0.7459
+2005,Software Contable,0.7132
+2005,Ofimatica,0.6753
+2006,Arquitectura del Computador,0.5414
+2006,Análisis y Diseño de Sist. de Inf. II,0.6667
+2006,Base de Datos II,0.6831
+2006,Herramientas de Desarrollo I,0.5689
+2006,Algorítmica I,0.4712
+2006,Administración de Centros de Computo,0.7626
+2006,Sistemas Distribuidos,0.7475
+2006,Software Contable,0.72
+2006,Formulacion y Evaluacion de Proyectos,0.8283
+2006,Herramientas de Desarrollo de Software,1
+2006,Analisis y Diseño de Sistemas,1
+2006,Diseño Gráfico,0.8
+2006,Contabilidad II,0.68
+2006,Herramientas de Desarrollo III,0.6697
+2006,Herramientas de Desarrollo IV,0.7213
+2006,Ofimatica,0.6065
+2006,Desarrollo de Software,0.6869
+2006,Matemática II,0.652
+2006,Diseño de Páginas Web,0.8087
+2006,Redes y Conectividad,0.8009
+2006,Diseño y Gestion de Base de Datos,1
+2006,Contabilidad I,0.5589
+2006,Matemática III,0.7149
+2006,Base de Datos I,0.6425
+2006,Herramientas de Desarrollo II,0.656
+2006,Administración y Liderazgo,0.8197
+2006,Algorítmica II,0.596
+2006,Matemática I,0.5689
+2006,Redes y Teleprocesos,1
+2006,Análisis y Diseño de Sist. de Inf. I,0.6923
+2006,Comercio Electronico,0.8283
+2007,Administración de Centros de Computo,0.6071
+2007,Análisis y Diseño de Sist. de Inf. I,0.7195
+2007,Software Contable,0.7
+2007,Algorítmica II,0.6429
+2007,Redes y Conectividad,0.7683
+2007,Diseño de Páginas Web,0.622
+2007,Matemática III,0.7256
+2007,Diseño y Gestion de Base de Datos,1
+2007,Contabilidad I,0.5742
+2007,Sistemas Distribuidos,0.5595
+2007,Desarrollo de Software,0.5238
+2007,Analisis y Diseño de Sistemas,1
+2007,Base de Datos I,0.7378
+2007,Comercio Electronico,0.6786
+2007,Matemática I,0.5385
+2007,Formulacion y Evaluacion de Proyectos,0.6071
+2007,Contabilidad II,0.6464
+2007,Herramientas de Desarrollo II,0.7036
+2007,Herramientas de Desarrollo IV,0.3622
+2007,Herramientas de Desarrollo de Software,1
+2007,Herramientas de Desarrollo I,0.4955
+2007,Algorítmica I,0.4973
+2007,Base de Datos II,0.5118
+2007,Ofimatica,0.6208
+2007,Diseño Gráfico,0.7321
+2007,Matemática II,0.6607
+2007,Análisis y Diseño de Sist. de Inf. II,0.4409
+2007,Herramientas de Desarrollo III,0.6585
+2007,Arquitectura del Computador,0.551
+2007,Administración y Liderazgo,0.5512
+2007,Redes y Teleprocesos,1
+2008,Herramientas de Desarrollo III,0.7415
+2008,Matemática I,0.6356
+2008,Comercio Electronico,0.7283
+2008,Redes y Teleprocesos,1
+2008,Base de Datos I,0.6864
+2008,Sistemas Distribuidos,0.7174
+2008,Algorítmica I,0.5248
+2008,Base de Datos II,0.7202
+2008,Herramientas de Desarrollo de Software,1
+2008,Contabilidad I,0.6099
+2008,Desarrollo de Software,0.712
+2008,Análisis y Diseño de Sist. de Inf. II,0.7569
+2008,Arquitectura del Computador,0.6356
+2008,Matemática II,0.6034
+2008,Matemática III,0.7076
+2008,Contabilidad II,0.6092
+2008,Algorítmica II,0.5144
+2008,Diseño de Páginas Web,0.7752
+2008,Diseño Gráfico,0.8218
+2008,Diseño y Gestion de Base de Datos,1
+2008,Ofimatica,0.6931
+2008,Formulacion y Evaluacion de Proyectos,0.7717
+2008,Administración y Liderazgo,0.8119
+2008,Herramientas de Desarrollo II,0.569
+2008,Analisis y Diseño de Sistemas,1
+2008,Herramientas de Desarrollo I,0.5921
+2008,Software Contable,0.6897
+2008,Redes y Conectividad,0.7797
+2008,Herramientas de Desarrollo IV,0.633
+2008,Análisis y Diseño de Sist. de Inf. I,0.7076
+2008,Administración de Centros de Computo,0.75
+2009,Herramientas de Desarrollo III,0.53
+2009,Arquitectura del Computador,0.5678
+2009,Redes y Conectividad,0.7834
+2009,Ofimatica,0.6538
+2009,Matemática II,0.589
+2009,Diseño Gráfico,0.6473
+2009,Administración de Centros de Computo,0.7458
+2009,Herramientas de Desarrollo I,0.5366
+2009,Herramientas de Desarrollo IV,0.601
+2009,Algorítmica I,0.478
+2009,Herramientas de Desarrollo de Software,1
+2009,Herramientas de Desarrollo II,0.4829
+2009,Administración y Liderazgo,0.7273
+2009,Contabilidad I,0.6282
+2009,Desarrollo de Software,0.6441
+2009,Redes y Teleprocesos,1
+2009,Análisis y Diseño de Sist. de Inf. I,0.7097
+2009,Análisis y Diseño de Sist. de Inf. II,0.7727
+2009,Base de Datos II,0.6364
+2009,Base de Datos I,0.6221
+2009,Matemática I,0.5824
+2009,Algorítmica II,0.4281
+2009,Comercio Electronico,0.7345
+2009,Sistemas Distribuidos,0.6893
+2009,Software Contable,0.6438
+2009,Diseño y Gestion de Base de Datos,1
+2009,Diseño de Páginas Web,0.6162
+2009,Matemática III,0.7235
+2009,Analisis y Diseño de Sistemas,1
+2009,Contabilidad II,0.5925
+2009,Formulacion y Evaluacion de Proyectos,0.7288
+2010,Análisis y Diseño de Sist. de Inf. I,0.6359
+2010,Contabilidad I,0.6213
+2010,Sistemas Distribuidos,0.5566
+2010,Ofimatica,0.6553
+2010,Herramientas de Desarrollo I,0.5766
+2010,Herramientas de Desarrollo IV,0.6059
+2010,Contabilidad II,0.6565
+2010,Desarrollo de Software,0.5943
+2010,Software Contable,0.6565
+2010,Matemática II,0.6803
+2010,Herramientas de Desarrollo de Software,0.9434
+2010,Diseño y Gestion de Base de Datos,0.9245
+2010,Administración de Centros de Computo,0.717
+2010,Matemática III,0.7039
+2010,Algorítmica II,0.568
+2010,Base de Datos I,0.5388
+2010,Comercio Electronico,0.6321
+2010,Análisis y Diseño de Sist. de Inf. II,0.7118
+2010,Arquitectura del Computador,0.5532
+2010,Base de Datos II,0.7059
+2010,Redes y Teleprocesos,0.9623
+2010,Diseño de Páginas Web,0.7353
+2010,Analisis y Diseño de Sistemas,0.9623
+2010,Redes y Conectividad,0.7961
+2010,Formulacion y Evaluacion de Proyectos,0.6604
+2010,Diseño Gráfico,0.7109
+2010,Algorítmica I,0.5404
+2010,Herramientas de Desarrollo III,0.5437
+2010,Administración y Liderazgo,0.7706
+2010,Matemática I,0.6021
+2010,Herramientas de Desarrollo II,0.4898
+2011,Herramientas de Desarrollo III,0.6234
+2011,Algorítmica I,0.5557
+2011,Diseño de Páginas Web,0.6039
+2011,Redes y Teleprocesos,0.9896
+2011,Analisis y Diseño de Sistemas,0.9792
+2011,Diseño Gráfico,0.6774
+2011,Base de Datos II,0.5844
+2011,Herramientas de Desarrollo de Software,0.9792
+2011,Análisis y Diseño de Sist. de Inf. II,0.6883
+2011,Administración de Centros de Computo,0.8649
+2011,Administración y Liderazgo,0.7597
+2011,Contabilidad II,0.6909
+2011,Software Contable,0.6909
+2011,Arquitectura del Computador,0.5844
+2011,Redes y Conectividad,0.8159
+2011,Herramientas de Desarrollo II,0.5699
+2011,Algorítmica II,0.5565
+2011,Formulacion y Evaluacion de Proyectos,0.7703
+2011,Análisis y Diseño de Sist. de Inf. I,0.8075
+2011,Ofimatica,0.6433
+2011,Herramientas de Desarrollo I,0.5876
+2011,Diseño y Gestion de Base de Datos,0.9896
+2011,Sistemas Distribuidos,0.5743
+2011,Contabilidad I,0.6242
+2011,Matemática III,0.8075
+2011,Herramientas de Desarrollo IV,0.5714
+2011,Matemática II,0.6129
+2011,Desarrollo de Software,0.6757
+2011,Matemática I,0.5732
+2011,Comercio Electronico,0.5676
+2011,Base de Datos I,0.7406
+2012,Administración y Liderazgo,0.7237
+2012,Base de Datos I,0.7218
+2012,Algorítmica II,0.6692
+2012,Comercio Electronico,0.7688
+2012,Sistemas Distribuidos,0.6185
+2012,Matemática II,0.5692
+2012,Herramientas de Desarrollo de Software,1
+2012,Base de Datos II,0.6535
+2012,Análisis y Diseño de Sist. de Inf. II,0.7851
+2012,Algorítmica I,0.526
+2012,Contabilidad I,0.5879
+2012,Desarrollo de Software,0.6879
+2012,Análisis y Diseño de Sist. de Inf. I,0.6917
+2012,Software Contable,0.6872
+2012,Herramientas de Desarrollo III,0.5752
+2012,Diseño de Páginas Web,0.7149
+2012,Redes y Conectividad,0.7481
+2012,Ofimatica,0.6097
+2012,Diseño y Gestion de Base de Datos,1
+2012,Matemática I,0.5477
+2012,Herramientas de Desarrollo II,0.5026
+2012,Contabilidad II,0.5692
+2012,Matemática III,0.6917
+2012,Analisis y Diseño de Sistemas,1
+2012,Herramientas de Desarrollo IV,0.6798
+2012,Administración de Centros de Computo,0.8671
+2012,Arquitectura del Computador,0.5444
+2012,Herramientas de Desarrollo I,0.5662
+2012,Formulacion y Evaluacion de Proyectos,0.8613
+2012,Diseño Gráfico,0.7051
+2012,Redes y Teleprocesos,1
+2013,Administración y Liderazgo,0.8129
+2013,Herramientas de Desarrollo II,0.6833
+2013,Formulacion y Evaluacion de Proyectos,0.8235
+2013,Análisis y Diseño de Sist. de Inf. II,0.7097
+2013,Software Contable,0.7544
+2013,Redes y Conectividad,0.7011
+2013,Diseño de Páginas Web,0.729
+2013,Analisis y Diseño de Sistemas,0.9917
+2013,Matemática I,0.5404
+2013,Redes y Teleprocesos,0.9917
+2013,Comercio Electronico,0.6639
+2013,Herramientas de Desarrollo III,0.587
+2013,Base de Datos II,0.6065
+2013,Base de Datos I,0.7065
+2013,Algorítmica II,0.6868
+2013,Arquitectura del Computador,0.5574
+2013,Matemática III,0.6793
+2013,Contabilidad I,0.6128
+2013,Sistemas Distribuidos,0.6387
+2013,Análisis y Diseño de Sist. de Inf. I,0.6848
+2013,Administración de Centros de Computo,0.8571
+2013,Herramientas de Desarrollo IV,0.6194
+2013,Matemática II,0.6477
+2013,Diseño Gráfico,0.7224
+2013,Diseño y Gestion de Base de Datos,0.9917
+2013,Algorítmica I,0.5191
+2013,Contabilidad II,0.7295
+2013,Desarrollo de Software,0.7059
+2013,Herramientas de Desarrollo de Software,0.9833
+2013,Herramientas de Desarrollo I,0.5404
+2013,Ofimatica,0.5979
+2014,Matemática III,0.6747
+2014,Sistemas Distribuidos,0.6834
+2014,Ofimatica,0.575
+2014,Contabilidad II,0.709
+2014,Administración y Liderazgo,0.7753
+2014,Análisis y Diseño de Sist. de Inf. I,0.661
+2014,Herramientas de Desarrollo IV,0.6872
+2014,Analisis y Diseño de Sistemas,0.9828
+2014,Diseño de Páginas Web,0.7621
+2014,Base de Datos II,0.6035
+2014,Diseño y Gestion de Base de Datos,0.9828
+2014,Contabilidad I,0.5541
+2014,Herramientas de Desarrollo I,0.5161
+2014,Matemática II,0.5728
+2014,Desarrollo de Software,0.5779
+2014,Redes y Teleprocesos,0.9828
+2014,Herramientas de Desarrollo II,0.6347
+2014,Herramientas de Desarrollo III,0.6062
+2014,Matemática I,0.482
+2014,Comercio Electronico,0.6281
+2014,Base de Datos I,0.637
+2014,Formulacion y Evaluacion de Proyectos,0.8442
+2014,Algorítmica I,0.4896
+2014,Herramientas de Desarrollo de Software,0.9828
+2014,Análisis y Diseño de Sist. de Inf. II,0.6652
+2014,Algorítmica II,0.5604
+2014,Diseño Gráfico,0.6997
+2014,Administración de Centros de Computo,0.9347
+2014,Software Contable,0.7399
+2014,Redes y Conectividad,0.6438
+2014,Arquitectura del Computador,0.5085
+2015,Redes y Conectividad,0.6595
+2015,Herramientas de Desarrollo III,0.5603
+2015,Software Contable,0.6906
+2015,Matemática III,0.6897
+2015,Base de Datos II,0.4671
+2015,Herramientas de Desarrollo de Software,0.6897
+2015,Administración de Centros de Computo,0.8344
+2015,Análisis y Diseño de Sist. de Inf. II,0.6647
+2015,Herramientas de Desarrollo I,0.5246
+2015,Sistemas Distribuidos,0.7962
+2015,Redes y Teleprocesos,0.3218
+2015,Administración y Liderazgo,0.6946
+2015,Diseño Gráfico,0.671
+2015,Algorítmica I,0.556
+2015,Diseño de Páginas Web,0.6886
+2015,Analisis y Diseño de Sistemas,0.6897
+2015,Formulacion y Evaluacion de Proyectos,0.8599
+2015,Análisis y Diseño de Sist. de Inf. I,0.6509
+2015,Arquitectura del Computador,0.5697
+2015,Herramientas de Desarrollo IV,0.6108
+2015,Ofimatica,0.6248
+2015,Matemática I,0.5422
+2015,Base de Datos I,0.6293
+2015,Diseño y Gestion de Base de Datos,1
+2015,Desarrollo de Software,0.5605
+2015,Contabilidad I,0.6228
+2015,Comercio Electronico,0.5287
+2015,Matemática II,0.5081
+2015,Herramientas de Desarrollo II,0.5635
+2015,Algorítmica II,0.5961
+2015,Contabilidad II,0.6482
+2016,Matemática III,0.6113
+2016,Sistemas Distribuidos,0.6142
+2016,Redes y Teleprocesos,1
+2016,Análisis y Diseño de Sist. de Inf. II,0.6028
+2016,Herramientas de Desarrollo de Software,1
+2016,Base de Datos II,0.4813
+2016,Administración de Centros de Computo,0.8189
+2016,Arquitectura del Computador,0.4967
+2016,Herramientas de Desarrollo I,0.4749
+2016,Administración y Liderazgo,0.6495
+2016,Software Contable,0.6707
+2016,Diseño de Páginas Web,0.5467
+2016,Contabilidad II,0.6347
+2016,Diseño y Gestion de Base de Datos,1
+2016,Algorítmica I,0.4732
+2016,Redes y Conectividad,0.6316
+2016,Formulacion y Evaluacion de Proyectos,0.811
+2016,Diseño Gráfico,0.7335
+2016,Herramientas de Desarrollo III,0.4615
+2016,Analisis y Diseño de Sistemas,1
+2016,Análisis y Diseño de Sist. de Inf. I,0.6478
+2016,Herramientas de Desarrollo IV,0.5514
+2016,Desarrollo de Software,0.6929
+2016,Ofimatica,0.5585
+2016,Herramientas de Desarrollo II,0.5749
+2016,Algorítmica II,0.518
+2016,Base de Datos I,0.5223
+2016,Comercio Electronico,0.622
+2016,Matemática I,0.4197
+2016,Contabilidad I,0.51
+2016,Matemática II,0.5269
+2017,Administración y Liderazgo,0.7427
+2017,Ofimatica,0.4799
+2017,Herramientas de Desarrollo III,0.6008
+2017,Base de Datos I,0.6461
+2017,Matemática II,0.5161
+2017,Algorítmica II,0.5044
+2017,Desarrollo de Software,0.8137
+2017,Herramientas de Desarrollo I,0.3975
+2017,Herramientas de Desarrollo de Software,1
+2017,Herramientas de Desarrollo IV,0.6359
+2017,Comercio Electronico,0.8137
+2017,Análisis y Diseño de Sist. de Inf. II,0.6845
+2017,Matemática I,0.3485
+2017,Analisis y Diseño de Sistemas,1
+2017,Redes y Conectividad,0.6626
+2017,Diseño Gráfico,0.6393
+2017,Formulacion y Evaluacion de Proyectos,0.8696
+2017,Software Contable,0.6481
+2017,Diseño de Páginas Web,0.6602
+2017,Diseño y Gestion de Base de Datos,1
+2017,Herramientas de Desarrollo II,0.5132
+2017,Contabilidad I,0.4046
+2017,Arquitectura del Computador,0.3923
+2017,Matemática III,0.6996
+2017,Administración de Centros de Computo,0.8571
+2017,Análisis y Diseño de Sist. de Inf. I,0.7325
+2017,Base de Datos II,0.6456
+2017,Sistemas Distribuidos,0.7391
+2017,Algorítmica I,0.373
+2017,Contabilidad II,0.6012
+2017,Redes y Teleprocesos,1
+2018,Matemática III,0.7466
+2018,Algorítmica I,0.5333
+2018,Sistemas Distribuidos,0.6436
+2018,Desarrollo de Software,0.867
+2018,Diseño de Páginas Web,0.7024
+2018,Analisis y Diseño de Sistemas,0.9785
+2018,Herramientas de Desarrollo IV,0.6976
+2018,Redes y Teleprocesos,0.9892
+2018,Contabilidad I,0.5514
+2018,Herramientas de Desarrollo III,0.6652
+2018,Algorítmica II,0.4904
+2018,Diseño Gráfico,0.6115
+2018,Herramientas de Desarrollo I,0.555
+2018,Diseño y Gestion de Base de Datos,0.9785
+2018,Herramientas de Desarrollo de Software,0.9677
+2018,Contabilidad II,0.5573
+2018,Administración de Centros de Computo,0.9149
+2018,Arquitectura del Computador,0.5622
+2018,Análisis y Diseño de Sist. de Inf. II,0.7317
+2018,Administración y Liderazgo,0.8
+2018,Análisis y Diseño de Sist. de Inf. I,0.7828
+2018,Herramientas de Desarrollo II,0.5637
+2018,Ofimatica,0.609
+2018,Software Contable,0.6083
+2018,Formulacion y Evaluacion de Proyectos,0.9043
+2018,Matemática II,0.551
+2018,Redes y Conectividad,0.7557
+2018,Base de Datos I,0.7285
+2018,Base de Datos II,0.6
+2018,Matemática I,0.5369
+2018,Comercio Electronico,0.8085
+2019,Redes y Teleprocesos,0.549
+2019,Formulacion y Evaluacion de Proyectos,0.9634
+2019,Analisis y Diseño de Sistemas,0.549
+2019,Herramientas de Desarrollo III,0.7241
+2019,Análisis y Diseño de Sist. de Inf. II,0.7563
+2019,Algorítmica I,0.5307
+2019,Sistemas Distribuidos,0.9451
+2019,Matemática III,0.7371
+2019,Administración de Centros de Computo,0.9512
+2019,Arquitectura del Computador,0.5054
+2019,Diseño y Gestion de Base de Datos,0.549
+2019,Herramientas de Desarrollo II,0.5364
+2019,Contabilidad II,0.5445
+2019,Diseño Gráfico,0.6199
+2019,Redes y Conectividad,0.5259
+2019,Diseño de Páginas Web,0.8376
+2019,Software Contable,0.566
+2019,Contabilidad I,0.4639
+2019,Matemática II,0.496
+2019,Herramientas de Desarrollo de Software,0.549
+2019,Herramientas de Desarrollo IV,0.7513
+2019,Base de Datos II,0.6954
+2019,Herramientas de Desarrollo I,0.5289
+2019,Base de Datos I,0.7629
+2019,Algorítmica II,0.5283
+2019,Comercio Electronico,0.939
+2019,Matemática I,0.5451
+2019,Ofimatica,0.6137
+2019,Administración y Liderazgo,0.8832
+2019,Análisis y Diseño de Sist. de Inf. I,0.7759
+2019,Desarrollo de Software,0.939
